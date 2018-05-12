@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '33087'
     url: http://www.gutenberg.org/2009/agents/33087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15497#Ethicadoor-Jhr.-Dr.-Nico-van-Suchtelen
 gutenberg_issued: '2005-03-29'
 gutenberg_type: Text
 identifiers:
